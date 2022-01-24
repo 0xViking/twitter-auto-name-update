@@ -1,1 +1,1 @@
-worker: node mainbot.py
+worker:node mainbot.py
