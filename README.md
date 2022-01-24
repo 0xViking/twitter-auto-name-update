@@ -1,10 +1,13 @@
 # Twitter automatic name changer based on your followers
 
+CODE Ⓒ --> https://twitter.com/erRaghavKhanna
+
+
 Example-
 
-my twitter handle @erRaghavKhanna
+my twitter handle @0xViking
 
-<img src="https://github.com/raghavkhanna30/twitter-auto-name-changer/blob/master/upload/Capture3.PNG">
+<img src="https://github.com/0xViking/twitter-auto-name-update/blob/master/myTwitterHomePage.png">
 
 
 
